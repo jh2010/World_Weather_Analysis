@@ -12,4 +12,6 @@ As seen from the table below, there are some differences amongst the city types.
 
 
 
+![image_name](https://github.com/jh2010/World_Weather_Analysis/blob/master/images/pyber-ride-summary.png)
+
 ## Summary
